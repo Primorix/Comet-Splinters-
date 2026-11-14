@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "me.grok.cometsplinters.twa",
+        "sha256_cert_fingerprints": ["E5:F4:1B:B3:BE:0A:5A:E7:E6:C5:D0:18:A8:0A:57:53:A6:78:4A:2C:FE:AF:24:D5:0B:AE:B8:70:33:B0:E4:C3"]
+      }
+    }]

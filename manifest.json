@@ -1,0 +1,17 @@
+{
+  "name": "Comet Splinters",
+  "short_name": "Splinters",
+  "start_url": "/Comet-Splinters-/",
+  "scope": "/Comet-Splinters-/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "Comet Splinters – Ein chaotisches Retro-Space-Arcade-Spiel! Kämpfe gegen Gegner, verbessere deine Raumschiffe und knacke immer neue Highscores.",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
